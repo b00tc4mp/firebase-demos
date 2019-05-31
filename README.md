@@ -1,6 +1,6 @@
 # firebase file upload demo
 
-## docs
+## resources
 
 https://firebase.google.com/docs/admin/setup
 
